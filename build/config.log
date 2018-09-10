@@ -1,4 +1,4 @@
-# project eg-amp.lv2 (1.0.0) configured on Sun Sep  9 07:11:27 2018 by
+# project eg-amp.lv2 (1.0.0) configured on Sun Sep  9 10:48:08 2018 by
 # waf 1.8.22 (abi 98, python 2070fc1 on linux2)
 # using ./waf configure
 #
@@ -382,10 +382,10 @@ int main(int argc, char **argv) {
 }
 
 <==
-[1/2] Compiling [32mbuild/.conf_check_ff3513ea79550ce22c696e64b7a01776/test.c[0m
+[1/2] Compiling [32mbuild/.conf_check_f143bc5e4823153cfbb8aad1fe6a7163/test.c[0m
 
-['/usr/bin/gcc', '-I/home/sufy/lv2/moogfilter', '-DNDEBUG', '-fshow-column', '-std=c99', '-fPIC', '-I/home/sufy/lv2/moogfilter/build/.conf_check_ff3513ea79550ce22c696e64b7a01776/testbuild', '../test.c', '-c', '-o', '/home/sufy/lv2/moogfilter/build/.conf_check_ff3513ea79550ce22c696e64b7a01776/testbuild/test.c.1.o']
-[2/2] Linking [33mbuild/.conf_check_ff3513ea79550ce22c696e64b7a01776/testbuild/libtestprog.so[0m
+['/usr/bin/gcc', '-I/home/sufy/lv2/moogfilter', '-DNDEBUG', '-fshow-column', '-std=c99', '-fPIC', '-I/home/sufy/lv2/moogfilter/build/.conf_check_f143bc5e4823153cfbb8aad1fe6a7163/testbuild', '../test.c', '-c', '-o', '/home/sufy/lv2/moogfilter/build/.conf_check_f143bc5e4823153cfbb8aad1fe6a7163/testbuild/test.c.1.o']
+[2/2] Linking [33mbuild/.conf_check_f143bc5e4823153cfbb8aad1fe6a7163/testbuild/libtestprog.so[0m
 
-['/usr/bin/gcc', '-shared', 'test.c.1.o', '-o', '/home/sufy/lv2/moogfilter/build/.conf_check_ff3513ea79550ce22c696e64b7a01776/testbuild/libtestprog.so', '-Wl,-Bstatic', '-Wl,-Bdynamic', '-lm']
+['/usr/bin/gcc', '-shared', 'test.c.1.o', '-o', '/home/sufy/lv2/moogfilter/build/.conf_check_f143bc5e4823153cfbb8aad1fe6a7163/testbuild/libtestprog.so', '-Wl,-Bstatic', '-Wl,-Bdynamic', '-lm']
 yes

@@ -17,8 +17,8 @@
 	    lv2:symbol "type";
 	    lv2:name "FilterType";
 	    lv2:minimum 0;
-	    lv2:maximum 3.0;
-	    lv2:default 2.5;
+	    lv2:maximum 1.9;
+	    lv2:default 1.9;
 	  ],  [
 		a lv2:AudioPort ,
 			lv2:InputPort ;
